@@ -1,0 +1,17 @@
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\bin\Debug\net8.0-windows\TP03.exe
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\bin\Debug\net8.0-windows\TP03.deps.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\bin\Debug\net8.0-windows\TP03.runtimeconfig.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\bin\Debug\net8.0-windows\TP03.dll
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\bin\Debug\net8.0-windows\TP03.pdb
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.Form1.resources
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.csproj.GenerateResource.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.AssemblyInfoInputs.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.AssemblyInfo.cs
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.sourcelink.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.dll
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\refint\TP03.dll
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.pdb
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\TP03.genruntimeconfig.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP03\obj\Debug\net8.0-windows\ref\TP03.dll

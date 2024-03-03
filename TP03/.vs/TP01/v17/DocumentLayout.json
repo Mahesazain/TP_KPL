@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|d:\\kuliah\\sem4\\kpl\\tp\\tp_kpl\\tp03\\tp03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|solutionrelative:tp03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|d:\\kuliah\\sem4\\kpl\\tp\\tp_kpl\\tp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|d:\\kuliah\\sem4\\kpl\\tp\\tp_kpl\\tp03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|d:\\kuliah\\sem4\\kpl\\tp\\tp_kpl\\tp03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|d:\\kuliah\\sem4\\kpl\\tp\\tp_kpl\\tp03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8E7A76A-5AE7-4FCF-B918-9F85B1B40767}|TP03.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TP03",
+              "DocumentMoniker": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\TP03.csproj",
+              "RelativeDocumentMoniker": "TP03.csproj",
+              "ToolTip": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\TP03.csproj",
+              "RelativeToolTip": "TP03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T14:02:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:01:42.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:01:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:00:59.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TP03\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:58:08.965Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
